@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645631156 source:d:\projekty\c++\mwp4_3c - p³yta g³ówna\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+

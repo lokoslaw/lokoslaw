@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639678717 source:d:\projekty\c++\fr_05_04 - parkrun\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+
